@@ -73,7 +73,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "BIPAY"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "FINGERPAY"))
         self.btnsendttermina.setText(_translate("MainWindow", "Pay"))
         self.label.setText(_translate("MainWindow", "Amount"))
         self.label_3.setText(_translate("MainWindow", "Port"))
